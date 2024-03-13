@@ -3,3 +3,5 @@ secret.py
 __pycache__
 *.xlsx
 *.csv
+./data/*
+
